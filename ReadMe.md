@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Olá, me chamo Carlos Akim, tenho 28 anos.<br>🖥  Faço faculdade de Analise e Desenvolvimento de Sistemas.<br>🤝 Busco minha primeira oportunidade de trabalho na área como programador.<br>🌱 Sou estudante Backend, porém, pretendo me tornar um desenvolvedor Fullstack.<br>💬 Tenho conhecimento com Javascript, php.<br>⚡ Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças.
+🔭 Olá, me chamo Carlos Akim, tenho 28 anos.<br>🖥  Faço faculdade de Analise e Desenvolvimento de Sistemas.<br>🤝 Busco minha primeira oportunidade de trabalho na área como programador.<br>🌱 Sou estudante Backend, porém, pretendo me tornar um desenvolvedor Fullstack.<br>💬 Tenho conhecimento com Python, Javascript e php.<br>⚡ Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças.
 
 
 # 💻 Tech Stack:
